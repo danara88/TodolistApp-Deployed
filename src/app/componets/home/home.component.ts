@@ -37,7 +37,7 @@ export class HomeComponent implements OnInit {
         this.task = new Task('',this.identity._id,'','','','');
         this.submitedTask = false;
         this.loading = false;
-        this.socket = io('http://localhost:3700/');
+        this.socket = io('https://app-enlistalo.herokuapp.com/');
     }
 
     ngOnInit(){
