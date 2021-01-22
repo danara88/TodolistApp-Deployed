@@ -14,4 +14,4 @@ Something that I learn when I was developing this app was about how to develop a
 
 ## Project source code :star:
 In this link you can download and look the source code of the project
-https://github.com/danara88/RegisterFormAngular-Code
+https://github.com/danara88/TodolistApp-Code
