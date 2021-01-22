@@ -1,27 +1,17 @@
-# Client
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
+## Project Url :point_down: :point_down: :point_down:
+This is the deployed project where you can access directly and test the app:
+https://danara88.github.io/TodolistApp-deployed/iniciar-sesion
 
-## Development server
+## What is this web app about :question:
+This app is a To do list where you can register all the things that you have to do. This app is very focused to **people that manage their time** very well.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## What technologies did I use :question:
+In this app I used mongo DB as a database where I connect this with API REST with node js and express. Overmore, I used Angular 8 to build the front end and I used **sockets** to maintain a real time connection with the backend
 
-## Code scaffolding
+## What I learn in this project :question:
+Something that I learn when I was developing this app was about how to develop a project where I had to implement sockets connections with node. Another thing that I learn was about deploying an app that uses sockets to the **cloud server** with heroku and github pages.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Project source code :star:
+In this link you can download and look the source code of the project
+https://github.com/danara88/RegisterFormAngular-Code
